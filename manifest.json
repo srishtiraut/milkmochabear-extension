@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "name": "Milkmochabear Peeks",
+    "version": "1.0",
+    "description":"Click on the refresh button to see a cute post from @milkmochabear to bring you sunshine! ☀",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions":[]
+}

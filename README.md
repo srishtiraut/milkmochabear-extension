@@ -27,7 +27,7 @@ Clicking the Refresh button triggers the fade-out/fade-in effect to switch to a 
 
 1. **Download or clone** this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/milkmochabear-extension.git
+   git clone https://github.com/srishtiraut/milkmochabear-extension.git
    ```
 2. Open Chrome and go to:
    chrome://extensions
@@ -41,7 +41,7 @@ Clicking the Refresh button triggers the fade-out/fade-in effect to switch to a 
 
 ## 🐾 Credits
 
-Art by @milkmochabear on Instagram.
+Art by [@milkmochabear on Instagram](https://www.instagram.com/milkmochabear/).
 
 Extension built by me(Srishti) for personal use.
 
